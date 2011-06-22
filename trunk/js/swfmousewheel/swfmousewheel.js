@@ -1,6 +1,7 @@
 /**
 * SWFMouseWheel v1.0 alpha4 
 * http://oysteinwika.com/swfmousewheel/
+* https://github.com/oysteinwika/SWFMouseWheel
 * Copyright (c) 2007 Øystein Wika
 *
 * This software is released under the MIT License <http://www.opensource.org/licenses/mit-license.php>
